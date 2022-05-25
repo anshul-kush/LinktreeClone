@@ -11,6 +11,8 @@ function App() {
         <p><strong>Anshul Kushwaha</strong></p>
         <a href="tel:9953709702" class="btn btn-primary mx-1 my-1 active" aria-current="page">9953709702</a>
         <a
+          className="btn btn-primary mx-1 my-1 active" href="https://github.com/anshul-kush" target="_blank" rel="noopener noreferrer">GitHub</a>
+        <a
           className="btn btn-primary mx-1 my-1 active" href="https://www.linkedin.com/in/anshulcivil/" target="_blank"      rel="noopener noreferrer">Linkedin</a>
         
         <a href="https://www.instagram.com/anshulthakur111/" class="btn btn-primary mx-1 my-1 active" aria-current="page" target="_blank" rel="noopener noreferrer">Instagram</a>
